@@ -69,3 +69,7 @@ Pessoas:
 <a name="license"></a>
 # :bookmark_tabs: Licença
 Este projeto está sob a licença MIT.
+
+---
+
+<p align="center"> <b> Feito por <a href="https://github.com/RaphaelAGN/">Raphael Nogueira</a></b></p>
