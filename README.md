@@ -50,21 +50,25 @@ Pessoas:
 
 <a name="commands"></a>
 # :gear: Comandos de execução
-:bulb: Para criar o banco de dados foi utilizado o knex. <br>
-:bulb: Para melhor controle e visualização do banco, o programa <a href="https://insomnia.rest">Insomnia Core</a>. <br>
-1. Back-end: <b>npm run dev</b>
 
-2. Front-end: <b>npm start</b>
+:bulb: Clonar repositório: `$ git clone https://github.com/RaphaelAGN/NLW-1.git`
 
-3. Mobile: <b>expo start</b>
+1. Back-end
+* Dentro da pasta server: `$ npm run dev`
+
+2. Front-end
+* Dentro da pasta web: `$ npm start`
+
+3. Mobile 
+* Dentro da pasta mobile: `$ expo start`
 
 <a name="contribution"></a>
 
 # :handshake: Contribuir
 * Faça um fork desse repositório
-* Crie uma branch com suas alterações: <b>git checkout -b my-feature</b>
-* Salve as alterações e dê um commit comentando o que foi feito: <b>git commit -m "feature: My new feature"</b>
-* Dê um push com suas alterações: <b>git push origin my-feature</b>
+* Crie uma branch com suas alterações: `$ git checkout -b my-feature`
+* Salve as alterações e dê um commit comentando o que foi feito: `$ git commit -m "feature: My new feature`
+* Dê um push com suas alterações: `$ git push origin my-feature`
 
 <a name="license"></a>
 # :bookmark_tabs: Licença
