@@ -67,7 +67,7 @@ Pessoas:
 # :handshake: Contribuir
 * Faça um fork desse repositório
 * Crie uma branch com suas alterações: `$ git checkout -b my-feature`
-* Salve as alterações e dê um commit comentando o que foi feito: `$ git commit -m "feature: My new feature`
+* Salve as alterações e dê um commit comentando o que foi feito: `$ git commit -m "feature: My new feature"`
 * Dê um push com suas alterações: `$ git push origin my-feature`
 
 <a name="license"></a>
